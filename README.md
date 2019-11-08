@@ -1,2 +1,2 @@
 # Algorithm-Nuggets
-Set of algorithmic techniques
+Set of algorithmic techniques visualized in Javascript
