@@ -6,6 +6,8 @@ Set of algorithmic techniques visualized in Javascript
 ### Contents
 1. [Bubble Sort Algorithm](#bubble-sort)
 2. [Linear Search](#linear-search)
+3. [Merge Sort](#merge-sort)
+
 
 
 ### Bubble Sort
@@ -17,3 +19,8 @@ Sorting algorithm that repeatedly steps through the list, compares adjacent elem
  A linear search or sequential search is a method for finding an element within a list. It sequentially checks each element of the list until a match is found or the whole list has been searched.
 [Read More on Wikipedia](https://en.wikipedia.org/wiki/Linear_search)<br/>
 _NOTE: counting starts at 0_
+
+
+### Merge Sort
+(also commonly spelled mergesort) is an efficient, general-purpose, comparison-based sorting algorithm.
+[Read More on Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
