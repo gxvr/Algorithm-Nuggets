@@ -32,4 +32,5 @@ function merge(arr1, arr2) {
 }
 
 console.log(merge([4, 6], [5, 9]));
+document.write("<div><p>Merge Sorting: " + "</p>");
 document.write("<p>Output: " + mergeSort([42, 24, 55, 96, 432, 45, 55, 33, 22, 11, 55, 66]) + "</p></div>");
