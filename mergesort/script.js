@@ -31,7 +31,5 @@ function merge(arr1, arr2) {
     return newArr;
 }
 
-// console.log(merge([4,6],[5,9]));
-
-console.log(mergeSort([42, 24, 55, 96, 432, 45, 55, 33, 22, 11, 55, 66]));
-document.write("<p>Output: " + linearSearch([1, 4, 5, 6, 7, 536, 356, 346, 436, 31, 33, 35], 7) + "</p></div>");
+console.log(merge([4, 6], [5, 9]));
+document.write("<p>Output: " + mergeSort([42, 24, 55, 96, 432, 45, 55, 33, 22, 11, 55, 66]) + "</p></div>");
