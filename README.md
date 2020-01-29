@@ -7,6 +7,7 @@ Set of algorithmic techniques visualized in vanilla Javascript
 1. [Bubble Sort Algorithm](#bubble-sort)
 2. [Linear Search](#linear-search)
 3. [Merge Sort](#merge-sort)
+4. More coming...
 
 
 
